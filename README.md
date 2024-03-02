@@ -12,7 +12,7 @@ align="center" width="100%" height = "250" src="https://res.cloudinary.com/super
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **WEB ,Java , Python , MERN and many more **
+- 💬 Ask me about **WEB ,Java , Python , MERN and many more**
 
 - 📫 How to reach me **aaryansharma2931@gmail.com**
 
